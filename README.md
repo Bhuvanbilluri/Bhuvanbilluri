@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhuvanbilluri
-- 👀 I’m interested in ...cloud
+- 👀 I’m interested in ... cloud technology
 - 🌱 I’m currently learning ... devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
